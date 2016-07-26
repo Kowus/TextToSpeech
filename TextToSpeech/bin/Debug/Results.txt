@@ -1,0 +1,13 @@
+﻿Computers are dumb—they do whatever you tell them.
+I will never do evil.
+An analog signal is analogous to the system it represents.
+Run every program step by step in your head
+Technically, you’re right but mind your programming style.
+This is not an ICT class!
+Anyone have an idea how we gonna do that... anyone?
+Come on guys you can do this... just a step ahead
+Can you guys move upfront?
+We gonna write a program that will make some money
+We’re gonna learn our first python code—printNow—what this does is it displays data on the monitor.
+When you assign a variable to data, the computer stores it in memory and puts the variable as a label on it.
+Clear your mind of all myths about multitasking, what the computer does is it assigns a time for each process that it visits within split seconds, so next time your computer is stuck on a process, think of it as a delayed flight.

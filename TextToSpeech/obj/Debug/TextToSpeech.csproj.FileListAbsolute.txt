@@ -1,0 +1,7 @@
+C:\Users\Kowus\Documents\Visual Studio 2012\Projects\TextToSpeech\TextToSpeech\bin\Debug\TextToSpeech.exe.config
+C:\Users\Kowus\Documents\Visual Studio 2012\Projects\TextToSpeech\TextToSpeech\bin\Debug\TextToSpeech.exe
+C:\Users\Kowus\Documents\Visual Studio 2012\Projects\TextToSpeech\TextToSpeech\bin\Debug\TextToSpeech.pdb
+C:\Users\Kowus\Documents\Visual Studio 2012\Projects\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.csprojResolveAssemblyReference.cache
+C:\Users\Kowus\Documents\Visual Studio 2012\Projects\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.exe
+C:\Users\Kowus\Documents\Visual Studio 2012\Projects\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.pdb
+C:\Users\Kowus\Documents\Visual Studio 2012\Projects\TextToSpeech\TextToSpeech\bin\Debug\Results.txt
